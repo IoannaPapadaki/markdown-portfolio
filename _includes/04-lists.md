@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- classic movie list:
+- clueless
+- legally blonde
+- mean girls
+- heathers
